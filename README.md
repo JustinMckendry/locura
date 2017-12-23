@@ -1,0 +1,2 @@
+# locura
+Locura ecommerce shop
